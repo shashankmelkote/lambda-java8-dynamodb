@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/aws-samples/lambda-java8-dynamodb) 
+
 ## Serverless Architecture with Java 8, AWS Lambda, and Amazon DynamoDB 
 
 This code base is an example API built with the Java 8 runtime for AWS Lambda, in
